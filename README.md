@@ -1,12 +1,12 @@
 # Hi, I'm Tahir 👋
 
-Backend Engineer & Founder focused on building scalable systems, AI-powered products, and real-world SaaS solutions.
+Full Stack Developer focused on building scalable systems, AI-powered products, and real-world SaaS solutions.
 
 ---
 
 ## 🚀 About Me
 
-I’m a Software Engineer and Founder at **Vibrex**, building full-stack web apps, mobile apps, and AI-powered automation systems.
+I’m a Software Engineer , building full-stack web apps, mobile apps, and AI-powered automation systems.
 
 I enjoy designing systems that solve real business problems using clean architecture, APIs, and AI integration.
 
@@ -26,11 +26,11 @@ I enjoy designing systems that solve real business problems using clean architec
 
 **Languages**
 
-* JavaScript | TypeScript | Python | Java | Dart
+* JavaScript | TypeScript | Python | Dart
 
 **Backend**
 
-* Node.js | Express.js | FastAPI | Spring Boot
+* Node.js | Express.js | FastAPI 
 
 **Frontend**
 
@@ -52,20 +52,7 @@ I enjoy designing systems that solve real business problems using clean architec
 
 * Docker | CI/CD | GitHub Actions | AWS | Postman | Jira
 
----
 
-## 🏗 Experience
-
-### Founder & CEO — Vibrex *(2024 – Present)*
-
-Islamabad, Pakistan
-
-* Leading development of full-stack and AI-powered products
-* Built and deployed SaaS platforms, MERN apps, and mobile apps
-* Integrated LLMs (OpenAI, Groq, Hugging Face) into real-world systems
-* Delivered end-to-end solutions from architecture to deployment
-
----
 
 ## 📌 Featured Projects
 
